@@ -1,3 +1,4 @@
+"""
 Copyright 2025 Farid Hossain
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,9 +15,10 @@ limitations under the License.
 
 # Additional Terms for Ethical Use
 # 1. Attribution: Must credit Farid Hossain in derivative works.
-# 2. Non-Malicious Use: Cannot be used for misinformation or harm.
-# 3. Data Ethics: Must follow ethical data practices.
-# 4. Modifications: Changes must be documented clearly.
+# 2. Non-Malicious Use: Cannot be used for misinformation, harm, or unethical purposes.
+# 3. Data Ethics: Must follow ethical data collection, usage, and privacy standards.
+# 4. Transparency: Any modifications must be clearly documented and made publicly available if distributed.
+# 5. No Warranty: This software is provided "AS IS" without any warranties or guarantees.
 """
 
 def license_info():
@@ -25,3 +27,5 @@ def license_info():
 if __name__ == "__main__":
     print(license_info())
 
+# Usage in other Python files:
+# from license import license_info
