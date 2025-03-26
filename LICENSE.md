@@ -13,13 +13,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-# Additional Terms for Ethical Use
-# 1. Attribution: Must credit Farid Hossain in derivative works.
-# 2. Non-Malicious Use: Cannot be used for misinformation, harm, or unethical purposes.
-# 3. Data Ethics: Must follow ethical data collection, usage, and privacy standards.
-# 4. Transparency: Any modifications must be clearly documented and made publicly available if distributed.
-# 5. No Warranty: This software is provided "AS IS" without any warranties or guarantees.
-"""
+
 
 def license_info():
     return "This project is licensed under Apache License 2.0 with additional ethical terms. See LICENSE file for details."
