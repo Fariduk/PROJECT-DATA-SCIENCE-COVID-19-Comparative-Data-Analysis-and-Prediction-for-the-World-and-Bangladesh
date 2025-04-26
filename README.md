@@ -43,18 +43,6 @@
 - Confirmed cases increased per day stats
 - Death cases increased per day stats
 
-### Does Germany defeat Covid-19 like the UK did?
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
-### Does The Tech country Japan, overcome the situation?
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
 ### Australia : How did they manage?
 - Per day stats
 - Curve of total number of confirmed, recovered and death cases
@@ -65,7 +53,6 @@
 - China
 - Italy
 - USA
-- Germany
 - united Kingdom
 - Australia
-- Japan
+  
