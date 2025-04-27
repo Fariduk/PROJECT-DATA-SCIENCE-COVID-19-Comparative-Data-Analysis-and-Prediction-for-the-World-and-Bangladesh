@@ -55,4 +55,10 @@
 - USA
 - united Kingdom
 - Australia
-  
+### BANGLADESH COVID 19 ANALYSIS
+ - Current Situation And Analysis in BANGLADESH
+ - BANGLADESH COVID 19 ANALYSIS IN PIE CHART AND PERCENT
+ - Total Tests, Total Confirmed Cases, Total Deaths, and Total Recovered
+ - Bangladesh Covid19 Total ConFirmed(Actual Vs Predicted Used {LSTM Model})
+ - BANGLADESH COVID 19 CORRELATION
+ - BANGLADESH COVID 19 Actual vs Predicted Total Deaths
