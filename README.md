@@ -62,3 +62,20 @@
  - Bangladesh Covid19 Total ConFirmed(Actual Vs Predicted Used {LSTM Model})
  - BANGLADESH COVID 19 CORRELATION
  - BANGLADESH COVID 19 Actual vs Predicted Total Deaths
+ - BANGLADESH AGE AND GENDER ANALYSIS
+ - Bangladesh Covid 19 division wise data representation
+ - Division Wise Bangladesh Result
+ - Bangladesh Covid19 Confirmed Cases And Deaths By Division In Bangladesh.
+ - Bangladesh Covid19 Total Confirmed Cases By District With PerCentage Contribution
+ - Bangladesh Covid19 Total Confirmed Cases And Deaths By District With PerCentage Contribution
+### Bangladesh Covid19 Home Quarantine Analysis
+- Bangladesh Covid19 Home Quarantine Analysis In ARIMA Forecast Model
+-  Bangladesh Covid19 Home Quarantine Time Series Line Plot
+### BANGLADESH V/S WORLD PRIDICTION
+- World country Summary + World Top 100 (Excluding Bangladesh
+- Bangladesh result Summary from world data set
+- Actual vs Predicted Deaths (Top 100 Countries) - CNN Model
+- CNN Prediction of Covid Deaths in Bangladesh
+- Convolutional Neural Network Trend Prediction Model (80% World + 20% Bangladesh)
+### Covid 19 Conclusion 
+### Thanks Every One .
