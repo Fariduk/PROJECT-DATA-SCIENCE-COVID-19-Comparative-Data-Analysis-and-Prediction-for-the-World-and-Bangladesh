@@ -1,81 +1,57 @@
-# Covid-19: Comparative Data Analysis and Prediction for the World and Bangladesh.
-**<a href = "https://github.com/faridhossain7600/Covid-19-Comparative-Data-Analysis-and-Prediction">**
-### Introduction
+1.INTRODUCTION	5
+Overview and Purpose of the Project-	5
+Research Question, Aims, and Objectives	6
+2. BACKGROUND	7
+2.1 Overview of the COVID-19 Pandemic	7
+2.2 Bangladesh in the Context of the Global Pandemic	7
+2.3 Importance of Comparative Analysis	7
+2.4 Predictive Modeling in Epidemiology	7
+2.5 Machine Learning and Deep Learning Applications in COVID-19 Forecasting	7
+2.6 Significance of the Study	7
+2.7 Selection Criteria for Literature Review	7
+2.8 Summary of Literature Review	8
+3.Dataset	8
+3.1 Preprocessing Steps	9
+3.2 Exploratory Data Analysis (EDA)	9
+3.3 Dataset Selection	9
+3.4 Features of Dataset	9
+3.5 Data Type and Quality	10
+3.6 Summary of Project Methodology	10
+4. Ethical Issues	11
+5. Methodology	11
+6. Analysis and Results	12
+6.1. Dataset Description	12
+6.2 Data Type Conversion	13
+6.3 Global Summary of COVID-19 Cases: Total Counts and Percentage Distribution	13
+6.4 Model Performance Comparison (COVID-19: Actual vs Predicted and Evaluation Metrics in the world all cases).	14
+Model Used: Long Short-Term Memory (LSTM) neural network	14
+XGBoost Regressor (Extreme Gradient Boosting Regressor)	15
+6.5 The First Epicenter of the pandemic- Since China is the first epicenter of this pandemic situation, I am checking for provinces within China to detect the spread out of the virus-	17
+6.6 These are detailed parts of the world-	18
+	20 number of countries affected Show In a Plot	19
+6.7 COVID-19 Impacts and Response in Bangladesh-	20
+6.8 COVID-19 Distributions in Bangladesh: A Pie Chart Perspective-	21
+6.9 Correlation Analysis of COVID-19 Factors in Bangladesh	21
+6.10 .Forecasting COVID-19 Trends in Bangladesh Using LSTM: Actual vs. Predicted Analysis for Confirmed, Deaths, and Recovered Cases.	22
+6.11 .Comparative forecasting of COVID-19 Trends: Bangladesh vs. Global Cases Using Deep Learning Models-	25
+LSTM training and prediction complete and Evaluation Metrics in the world -	26
+Bangladesh LSTM training and prediction completed.	27
+World vs. Bangladesh cumulative LSTM training and prediction completed:	27
+7.Final Model Selection & Final Result :	28
+7.1 Final Model Selection & Results: LSTM-Based COVID-19 Forecasting for Bangladesh	28
+Model Architecture:	28
+Evaluation Metrics:	28
+Prediction vs Actual :	28
+Forecast Insight:	28
+LMST Model:	29
+CNN Model:	29
+7.2 Model Performance Comparison:	31
+Forecast Model 14 Days	31
+8. Discussion and Limitations	32
+8.1 Discussion	32
+8.2 Limitations	32
+9. Future Work	33
+10. Conclusion	33
+11. REFERENCES	34
+12. APPENDICES.	35
 
-- Heatmap of the confirmed cases, recovered cases and death cases
-- How many countries were effected by the virus?
-- Percentage of confirmed cases per country
-- Top 5 countries having most number of confirmed cases
- 
-### China : The first epicenter of the pandemic
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-- Hubei Province
-
-### World : Excluding China
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
-### Italy : The 2nd Epicenter 
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
-### USA : The 3rd Epicenter
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
-### South Korea : The most successful country against Covid-19
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
-### United Kingdom : Recovered from Covid-19 or, not?
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
-### Australia : How did they manage?
-- Per day stats
-- Curve of total number of confirmed, recovered and death cases
-- Confirmed cases increased per day stats
-- Death cases increased per day stats
-
-### LOCKDOWN : The Saviour or, not?
-- China
-- Italy
-- USA
-- united Kingdom
-- Australia
-### BANGLADESH COVID 19 ANALYSIS
- - Current Situation And Analysis in BANGLADESH
- - BANGLADESH COVID 19 ANALYSIS IN PIE CHART AND PERCENT
- - Total Tests, Total Confirmed Cases, Total Deaths, and Total Recovered
- - Bangladesh Covid19 Total ConFirmed(Actual Vs Predicted Used {LSTM Model})
- - BANGLADESH COVID 19 CORRELATION
- - BANGLADESH COVID 19 Actual vs Predicted Total Deaths
- - BANGLADESH AGE AND GENDER ANALYSIS
- - Bangladesh Covid 19 division wise data representation
- - Division Wise Bangladesh Result
- - Bangladesh Covid19 Confirmed Cases And Deaths By Division In Bangladesh.
- - Bangladesh Covid19 Total Confirmed Cases By District With PerCentage Contribution
- - Bangladesh Covid19 Total Confirmed Cases And Deaths By District With PerCentage Contribution
-### Bangladesh Covid19 Home Quarantine Analysis
-- Bangladesh Covid19 Home Quarantine Analysis In ARIMA Forecast Model
--  Bangladesh Covid19 Home Quarantine Time Series Line Plot
-### BANGLADESH V/S WORLD PRIDICTION
-- World country Summary + World Top 100 (Excluding Bangladesh
-- Bangladesh result Summary from world data set
-- Actual vs Predicted Deaths (Top 100 Countries) - CNN Model
-- CNN Prediction of Covid Deaths in Bangladesh
-- Convolutional Neural Network Trend Prediction Model (80% World + 20% Bangladesh)
-### Covid 19 Conclusion 
-### Thanks Every One .
