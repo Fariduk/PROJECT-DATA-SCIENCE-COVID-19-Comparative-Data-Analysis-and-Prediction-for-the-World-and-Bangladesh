@@ -1,4 +1,3 @@
-"""
 Copyright 2025 Farid Hossain
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,14 +12,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-
-
-def license_info():
-    return "This project is licensed under Apache License 2.0 with additional ethical terms. See LICENSE file for details."
-
-if __name__ == "__main__":
-    print(license_info())
-
-# Usage in other Python files:
-# from license import license_info
-# data Science Project
+This project also adheres to academic and ethical standards. All models and forecasts 
+should be used for educational or research purposes only. The author is not responsible 
+for decisions made based on the predictions without appropriate domain consultation.
